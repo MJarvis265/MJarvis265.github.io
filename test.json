@@ -1,0 +1,16 @@
+{
+	"calls": {
+		"call": [
+			{
+				"_number": "123123123123",
+				"_duration": "0",
+				"_date": "aaaaaaaaaa",
+				"_type": "3",
+				"_presentation": "1",
+				"_subscription_id": "123123123123",
+				"_post_dial_digits": "",
+				"_subscription_component_name": "com.android.phone/com.android.services.telephony.TelephonyConnectionService",
+				"_readable_date": "18 Mar 2020 09:35:03",
+				"_contact_name": "AAAAAAAAAAAAA"
+			},
+}}}
